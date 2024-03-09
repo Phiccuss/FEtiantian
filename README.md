@@ -25,4 +25,4 @@
 密码：CLC1234（别想套这个密码试出别的号）  
 如果打开讨论任务显示该页面：  
 ![4](https://github.com/Phiccuss/FEtiantian/assets/127643654/db6a38b4-c63b-475d-bdaa-80a5fdb1d1ee)
-请将 __##https://school.ai-classes.com/##__ 段网址改为 __##https://school-web.ai-classes.com/##__
+请将 __https://school.ai-classes.com/__ 段网址改为 __https://school-web.ai-classes.com/__
