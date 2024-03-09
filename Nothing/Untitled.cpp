@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include <iostream>
+
 int main ()
 {
-	printf("o.OÄãÔÚ¸ÉÂï£¬ÕæÒÔÎªÎÒ»áÉÏ´«ÏîÄ¿£¿");
-    return 0;
+	std::cout<<"o.Oä½ åœ¨å¹²å˜›ï¼ŒçœŸä»¥ä¸ºæˆ‘ä¼šä¸Šä¼ é¡¹ç›®ï¼Ÿ"<<endl;
+	return 0;
 }
 
 
