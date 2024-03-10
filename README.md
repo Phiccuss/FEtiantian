@@ -22,7 +22,7 @@
 > 实在无法访问可以登录我的账号
 ## 账号 
 账号：草履虫P2  
-密码：CLC1234（别想套这个密码试出别的号）  
+密码：Tan90_（别想套这个密码试出别的号）  
 如果打开讨论任务显示该页面：  
 ![4](https://github.com/Phiccuss/FEtiantian/assets/127643654/db6a38b4-c63b-475d-bdaa-80a5fdb1d1ee)
 请将 __https://school.ai-classes.com/__ 段网址改为 __https://school-web.ai-classes.com/__
